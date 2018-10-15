@@ -1,0 +1,6 @@
+F:\AKKI_DEV\RND\DP\SingletonPattern\SimpleThreadSafe\bin\Debug\SimpleThreadSafe.exe.config
+F:\AKKI_DEV\RND\DP\SingletonPattern\SimpleThreadSafe\bin\Debug\SimpleThreadSafe.exe
+F:\AKKI_DEV\RND\DP\SingletonPattern\SimpleThreadSafe\bin\Debug\SimpleThreadSafe.pdb
+F:\AKKI_DEV\RND\DP\SingletonPattern\SimpleThreadSafe\obj\Debug\SimpleThreadSafe.csprojResolveAssemblyReference.cache
+F:\AKKI_DEV\RND\DP\SingletonPattern\SimpleThreadSafe\obj\Debug\SimpleThreadSafe.exe
+F:\AKKI_DEV\RND\DP\SingletonPattern\SimpleThreadSafe\obj\Debug\SimpleThreadSafe.pdb
